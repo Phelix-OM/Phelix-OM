@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🚀 Thriller  
-### *A traveler in the infinite dimensions of space and time*  
+### A traveler in the infinite dimensions of space and time  
 ![](photo_felix.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning;Embedded+Systems+Developer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
@@ -38,7 +38,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00D4FF&width=600&lines=I+explore+the+intersections+of+AI%2C+hardware%2C+and+design.;I+create+solutions+that+are+innovative+and+human-centered.;I+prototype+circuits%2C+train+models%2C+and+deploy+apps.)](https://git.io/typing-svg)
 
-✨ **Core Strengths (animated badges)**  
+✨ Core Strengths (animated badges)  
 <p>
   <img src="https://img.shields.io/badge/ML-Pipelines-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded-Systems-green?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -61,15 +61,15 @@
 <!-- Skills Matrix -->
 ## 🛠 Technical Stack
 
-### **Programming Languages**
+### Programming Languages
 <div align="center">
 
 | Language | Proficiency | Use Cases |
 |----------|-------------|-----------|
-| **Python** | ⭐⭐⭐⭐⭐ | ML, Backend, Automation |
-| **JavaScript/TypeScript** | ⭐⭐⭐⭐ | Full-Stack Web |
-| **C++** | ⭐⭐⭐⭐ | Embedded Systems |
-| **SQL** | ⭐⭐⭐ | Database Management |
+| Python | ⭐⭐⭐⭐⭐ | ML, Backend, Automation |
+| JavaScript/TypeScript | ⭐⭐⭐⭐ | Full-Stack Web |
+| C++ | ⭐⭐⭐⭐ | Embedded Systems |
+| SQL | ⭐⭐⭐ | Database Management |
 
 </div>
 
@@ -80,27 +80,27 @@
 ### 🔐 Smart Door Recognition System  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&color=FF5733&width=600&lines=Real-time+Face+Recognition;Embedded+AI+for+Smart+Access;Dashboard+with+Accuracy+%2F+Latency+Metrics)](https://git.io/typing-svg)  
 
-- **Tech Stack**: Python, OpenCV, TensorFlow, Flask, C++, Arduino  
-- **Status**: 
-- **Screenshot**:
+- Tech Stack: Python, OpenCV, TensorFlow, Flask, C++, Arduino  
+- Status: 
+- Screenshot:
 
 ---
 
 ### ⚡ Smart Mita (Smart Energy Management App)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&color=FFD700&width=600&lines=React+Native+App;Real-time+Energy+Analytics;Scheduling+%26+Device+Control)](https://git.io/typing-svg)  
 
-- **Tech Stack**: React Native, Firebase, Node.js  
-- **Status**:  
-- **Screenshot**: 
+- Tech Stack: React Native, Firebase, Node.js  
+- Status:  
+- Screenshot: 
 
 ---
 
 ### 🌐 Neurostax Website  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&color=00FFB3&width=600&lines=React+Frontend;Python+Backend;Interactive+Pages+%26+Dashboards)](https://git.io/typing-svg)  
 
-- **Tech Stack**: React.js, Python, Flask/Django, PostgreSQL  
-- **Status**: live
-- **Screenshot**:   
+- Tech Stack: React.js, Python, Flask/Django, PostgreSQL  
+- Status: live
+- Screenshot:   
 
 ---
 
@@ -115,7 +115,7 @@
 
 
 
-### **Technologies & Frameworks**
+### Technologies & Frameworks
 ```mermaid
 graph LR
     A[Python] --> B[ML/DL]
