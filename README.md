@@ -3,7 +3,7 @@
 
 # 🚀 Thriller  
 ### *A traveler in the infinite dimensions of space and time*  
-
+![](photo_felix.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning;Embedded+Systems+Developer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
