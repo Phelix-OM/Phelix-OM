@@ -5,17 +5,17 @@
 ### A traveler in the infinite dimensions of space and time  
 ![](photo_felix.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning;Embedded+Systems+Developer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning;Embedded+Systems+Developer;Full-Stack+Developer;Chip+Design+Engineer;AI+Enthusiast;Problem+Solver;FPGA+Developer;Verilog+Designer)](https://git.io/typing-svg)
 
 <!-- Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-2C2C2C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-2C2C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-0078D7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SystemVerilog-0078D7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-2C2C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-0078D7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
