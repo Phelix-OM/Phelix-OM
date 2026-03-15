@@ -66,6 +66,7 @@
 
 | Language | Proficiency | Use Cases |
 |----------|-------------|-----------|
+| Verilog | ⭐⭐⭐⭐⭐ | Chip Design |
 | Python | ⭐⭐⭐⭐⭐ | ML, Backend, Automation |
 | JavaScript/TypeScript | ⭐⭐⭐⭐ | Full-Stack Web |
 | C++ | ⭐⭐⭐⭐ | Embedded Systems |
