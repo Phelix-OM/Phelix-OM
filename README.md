@@ -124,7 +124,7 @@ graph LR
     D --> F[Node.js]
     G[C++] --> H[Embedded]
     B --> I[Projects]
-    C --> I
+    C[Verilog] --> I
     E --> I
     F --> I
     H --> I
