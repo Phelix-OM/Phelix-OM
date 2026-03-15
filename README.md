@@ -43,10 +43,13 @@
 
 ✨ Core Strengths (animated badges)  
 <p>
+  <img src="https://img.shields.io/badge/Chip-Design-2C2C2C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-Pipelines-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded-Systems-green?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack-Web-purple?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/3D-Design-orange?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-Development-0179B3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-HDL-0078D7?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
